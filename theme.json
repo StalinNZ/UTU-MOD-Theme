@@ -1,0 +1,35 @@
+{
+  "name": "UTU-MOD",
+  "type": "custom",
+  "text": {
+    "primary": "#00ff00",
+    "secondary": "#ff2400",
+    "accent": "#00ff00",
+    "link": "#ff00ff",
+    "response": "#f000d3"
+  },
+  "background": {
+    "primary": "#0a0a0a",
+    "diff": {
+      "added": "#002200",
+      "removed": "#220000"
+    }
+  },
+  "border": {
+    "default": "#1100ff",
+    "focused": "#00ffea"
+  },
+  "status": {
+    "success": "#00ff00",
+    "warning": "#00ff00",
+    "error": "#ff0000"
+  },
+  "ui": {
+    "comment": "#f000d3",
+    "symbol": "#00ff00",
+    "gradient": [
+      "#1100ff",
+      "#00ff00"
+    ]
+  }
+}
