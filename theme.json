@@ -28,7 +28,11 @@
     "comment": "#f000d3",
     "symbol": "#00ff00",
     "gradient": [
+      "#a020f0",
+      "#00ffff",
+      "#ff2400",
       "#1100ff",
+      "#ff00ff",
       "#00ff00"
     ]
   }
