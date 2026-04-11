@@ -5,8 +5,7 @@
     "primary": "#00ff00",
     "secondary": "#ff2400",
     "accent": "#00ff00",
-    "link": "#ff00ff",
-    "response": "#f000d3"
+    "link": "#ff00ff"
   },
   "background": {
     "primary": "#0a0a0a",
@@ -25,7 +24,7 @@
     "error": "#ff0000"
   },
   "ui": {
-    "comment": "#f000d3",
+    "comment": "#ff2400",
     "symbol": "#00ff00",
     "gradient": [
       "#ff00ff",
